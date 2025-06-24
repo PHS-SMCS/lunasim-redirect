@@ -1,0 +1,1 @@
+A (hopefully short lived) site to redirect lunasim.org to phs-smcs.github.io/LunaSim to allow access on school networks
